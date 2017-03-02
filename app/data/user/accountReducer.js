@@ -87,7 +87,7 @@ const defaultAccountItems = {
   phoneNumber: null,
   receiptTime: 18, // 6 PM
   schoolName: '',
-  storyNumber: 2,
+  storyNumber: 40,
   // storyNumber: 40,
   teacherName: '',
   teacherId: null,

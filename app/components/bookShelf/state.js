@@ -33,5 +33,6 @@ export default readerState = (state = initialState, action) => {
 
 const initialState = {
   bookShelfDisplayFormat: 'grid',
-  currentStoryKey: "",
+  currentStoryKey: "coon",
+  initialPage: 1
 }

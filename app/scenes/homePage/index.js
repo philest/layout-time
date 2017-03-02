@@ -48,7 +48,7 @@ export default class HomePageStack extends Component {
         <StackNavigation
           ref={stack => { this.stack = stack }}
           navigatorUID="homePage"
-          initialRoute={Router.getRoute('home')}
+          initialRoute={Router.getRoute('storyReader')}
           defaultRouteConfig={{
             navigationBar: {
               backgroundColor: ST_ORANGE,

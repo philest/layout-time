@@ -89,11 +89,12 @@ class StoryPager extends Component {
   render()  {
     const info = this.props.storyInfo
     // const STSwiper = ViewPagerAndroid // TODO: figure out what the problem is... :(
+    console.log('the fun props = ', this.props)
     const STSwiper = ViewPager
     return (
       <Animatable.View useNativeDriver animation="fadeIn" duration={200} style={{ flex: 1 }}>
         <STSwiper
-          initialPage={this.props.savedPageNum || 0}
+          initialPage={this.props.initialPage || 4}
           style={styles.swiper}
           loop={false}
           showsPagination={false}
@@ -146,7 +147,8 @@ const mapStateToProps = (state) => ({
                        state.components.bookShelf.currentStoryKey,
                        state.global.locale,
                      ),
-  currentKey: state.components.storyPager.currentKey,
+  currentKey: state.components.bookShelf.currentStoryKey,
+  initialPage: state.components.bookShelf.initialPage,
   pushesEnabled: state.global.pushesEnabled,
   locale: state.global.locale,
 })
