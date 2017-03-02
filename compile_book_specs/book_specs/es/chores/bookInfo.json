@@ -1,0 +1,11 @@
+{
+  "title": "My Chores!",
+  "awsKey": "chores",
+  "description": "A story about helping",
+  "offset": 0,
+  "numPages": 6,
+  "coverDims": {
+    "x": 200,
+    "y": 178
+  }
+}

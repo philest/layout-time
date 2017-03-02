@@ -1,0 +1,71 @@
+{
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.05,
+        "y": 0.4,
+        "ang": "20deg",
+        "textArray": [
+          "¿Dónde está Sam?",
+          "¿Cómo juega Sam?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.01,
+        "y": 0.2,
+        "ang": "-20deg",
+        "textArray": [
+          "¿Qué tiene Sam?",
+          "¿Quién está en el baño con Sam?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.6,
+        "y": 0.3,
+        "ang": "20deg",
+        "textArray": [
+          "¿Cómo se siente Sam?",
+          "¿Cómo sabes que Sam se siente así?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.65,
+        "y": 0.6,
+        "ang": "-25deg",
+        "textArray": [
+          "¿Cómo se siente Sam ahora?",
+          "¿Qué hace mamá?",
+          "¿Qué tú piensas sucederá?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.08,
+        "y": 0.3,
+        "ang": "20deg",
+        "textArray": [
+          "¿Qué tiene mamá en la mano?",
+          "¿Qué hace Sam?"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "x": 0.65,
+        "y": 0.35,
+        "ang": "-25deg",
+        "textArray": [
+          "¿Cómo se siente Sam ahora?",
+          "¿Por qué se siente así?"
+        ]
+      }
+    ]
+  }
+}

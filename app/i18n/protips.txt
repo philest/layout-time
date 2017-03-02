@@ -1,0 +1,61 @@
+Pluralization is possible as well and by default provides English rules:
+
+I18n.t("inbox.counting", {count: 10}); // You have 10 messages
+The sample above expects the following translation:
+
+en:
+  inbox:
+    counting:
+      one: You have 1 new message
+      other: You have {{count}} new messages
+      zero: You have no messages
+
+
+:
+You need to enclose your keys by double quotes. Try something like this instead:
+
+"Car": {
+  "one": "Car",
+  "other": "Cars"
+}
+and call it like this: i18n.t('Car', {count: 10}
+
+
+
+
+
+Basically you can interpolate text in this way:
+
+// Translation definition:
+WELCOME_MSG: 'Hello {{name}}!'
+
+// In you component:
+I18n.t('WELCOME_MSG', { name: 'Alexander' })
+But you can't style Alexander differently from the rest of the text, you must create your own function/wrapper to do so... 
+
+
+
+Ah, I see. In that case, I think the periods are interfering with the defaultSeparator. I don't have any experience with this option, but I think changing it might help.
+
+Something like:
+
+I18n.defaultSeparator = '$'
+I18n.translations = {
+  en: {
+    some_area: {
+      'No more cards.': 'No more cards. Displaying all cards.'
+    }
+  }
+}
+toast.showShortTop(I18n.t('some_area$No more cards.'))
+NB: this separator is only used if you categorize (such as some_area) your translations
+
+NB2: in my own projects, I use a translation-format without quotes, spaces and periods in the translations-object. Something like
+
+I18n.translations = {
+  en: {
+    some_area: {
+      no_more_cards: 'No more cards. Displaying all cards.'
+    }
+  }
+}

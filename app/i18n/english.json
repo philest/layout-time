@@ -1,0 +1,104 @@
+{
+  "transition":"in English",
+  "login": {
+    "next":"Next",
+    "done":"Done!",
+    "successModal": "All done! We're getting your stories.",
+    "phone": {
+      "subtitle": "Books from your school.",
+      "forgot":"Forgot my password.",
+      "input": "Phone number or email"
+    },
+    "forgotPass":{
+      "forgottxt":"To reset password, text RESET to:",
+      "usuredawg?":"Do you want to reset your password?",
+      "confirm":"Tap to confirm"
+    },
+    "forgotPassword": {
+      "resetEmail": {
+        "subtitle1": "To reset your password, email",
+        "subtitle2": "with the message"
+      },
+      "requestSMS": {
+        "title": "Forgot your password?",
+        "subtitle": "Enter the phone or email you use to log in.",
+        "input": "Phone number"
+      },
+      "checkRandomCode": {
+        "title": "Enter your code",
+        "subtitle": "Please enter the 4-digit code sent to \n{{phone}}",
+        "input": "Confirmation Code"
+      }
+    },
+    "password" : {
+      "input": "Password",
+      "tos": "Terms of Service",
+      "ppolicy": "Privacy Policy",
+      "fineprint" : "By signing up, I agree to the https://www.joinstorytime.com/terms and https://www.joinstorytime.com/privacy.",
+      "registration": {
+        "title": "Create a password",
+        "subtitle": "Your password must be at least 6 characters",
+      },
+      "login": {
+        "subtitle": "Welcome back! Please enter your password.",
+      }
+    },
+    "role": {
+      "title": "Tell use about yourself",
+      "subtitle": "What is your main role at school?",
+      "iam": "I'm",
+      "admin": "an Admin",
+      "teacher": "a Teacher",
+      "parent": "a Parent"
+    },
+    "name": {
+      "title": "What is your name?",
+      "input": "Full name"
+    },
+    "code": {
+      "forgottxt1":"Text",
+      "forgottxt2":"HELP to {{phone}}",
+      "forgottxt3":"to get a new class code",
+      "forgot": "What is my class code?",
+      "title": "Join your teacher's class",
+      "subtitle": "Enter your class code below.",
+      "input": "class code"
+    },
+    "invite": {
+      "title": "Invite your teacher",
+      "subtitle": "Teachers get everyone StoryTime books.",
+      "input": "Teacher email address",
+      "continue": "My teacher already signed up."
+    },
+  },
+  "bookShelf": {
+    "tab": "Biblioteca",
+    "heading": "Libros Personales",
+    "subtitle": "por parte de {{name}}"
+  },
+  "bookShelf":{
+    "tab": "Class Library",
+    "heading": "Your Books",
+    "subtitle": "from {{name}}",
+    "defaultschool": "your school"
+
+  },
+  "chat": {
+    "load_msgs": "Load earlier messages",
+    "loading": "Loading",
+    "your_story": "Your Story",
+    "tap2read": "Tap to read!",
+    "inputprompt": "Type a message...",
+    "today": "Today",
+    "last_XXX": "Last {{day}}"
+  },
+  "date": {
+    "Monday":"Monday",
+    "Tuesday":"Tuesday",
+    "Wednesday":"Wednesday",
+    "Thursday":"Thursday",
+    "Friday":"Friday",
+    "Saturday":"Saturday",
+    "Sunday":"Sunday"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Eli's Pets",
+  "awsKey": "whale",
+  "description": "A story about kitchen swimming",
+  "offset": 1,
+  "numPages": 10,
+  "coverDims": {
+    "x": 188,
+    "y": 161
+  }
+}

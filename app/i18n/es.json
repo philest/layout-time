@@ -1,0 +1,99 @@
+{
+  "transition":"en Español",
+  "login": {
+    "next":"Seguir",
+    "done":"¡Finalizar!",
+    "succesfulModal":"¡Todo listo! Es seguida vienen sus cuentos.",
+    "phone": {
+      "subtitle": "Libros por parte de su escuela.",
+      "input": "número de celular o email",
+      "forgottxt": "Para cambiar su contraseña, mensajéa RESET al:",
+      "forgot": "Olvidé mi contraseña."
+    },
+    "forgotPass":{
+      "forgottxt":"To reset password, text RESET to:",
+      "usuredawg?":"Do you want to reset your password?",
+      "confirm":"Tap to confirm"
+    },
+    "forgotPassword": {
+      "resetEmail": {
+        "subtitle1": "Para restablecer su contraseña,\n mande un email a",
+        "subtitle2": "con el mensaje"
+      },
+      "requestSMS": {
+        "title": "¿Olvidaste su contraseña?",
+        "subtitle": "Entre el número/email que usas para iniciar sesión",
+        "input": "Email o número celular"
+      },
+      "checkRandomCode": {
+        "title": "Entre el código",
+        "subtitle": "Favor entre el código de cuatro dígitos que madamos al \n{{phone}}",
+        "input": "Código de confirmación"
+      }
+    },
+    "password" : {
+      "input": "Contraseña",
+      "fineprint" : "Al inscribirme, acepto las https://www.joinstorytime.com/terms y la https://www.joinstorytime.com/privacy.",
+      "ppolicy": "Política de privacidad",
+      "tos": "Condiciones de Servicio",
+      "registration": {
+        "title": "Crea una contraseña",
+        "subtitle": "Debe tener por lo menos 6 letras/símbolos",
+      },
+      "login": {
+        "subtitle": "¡Bienvenido de vuelta! Favor entre su contraseña.",
+      }
+    },
+    "role": {
+      "title": "Díganos sobre usted",
+      "subtitle": "¿Cuál es su papel en la escuela?",
+      "iam": "Yo soy",
+      "admin": "Administrador",
+      "teacher": "Maestro/a",
+      "parent": "Padre"
+    },
+    "name": {
+      "title": "¿Cuál es su nombre y apellido?",
+      "input": "Nombre completo"
+    },
+    "code": {
+      "forgottxt1": "Mensajéa",
+      "forgottxt2": "HELP al {{phone}}",
+      "forgottxt3": "para recibir un código nuevo",
+      "forgot": "¿Cuál es mi código de clase?",
+      "title": "Únase a la clase del maestro de su hijo/a",
+      "subtitle": "Entre el código abajo",
+      "input": "código de la clase"
+    },
+    "invite": {
+      "title": "Invite su maestro a unirse a StoryTime ",
+      "subtitle": "Maestros consiguen libros de StoryTime para todos, gratis.",
+      "input": "Correo electrónico del maestro",
+      "continue": "Mi meastro ya se unió."
+    },
+  },
+  "bookShelf": {
+    "tab": "Biblioteca",
+    "heading": "Libros Personales",
+    "subtitle": "por parte de {{name}}",
+    "defaultschool": "su escuela"
+  },
+  "chat": {
+    "load_msgs": "Ver mensajes anteriores",
+    "loading": "Descargando",
+    "your_story": "El Cuento de Hoy",
+    "tap2read": "¡Toque para leer!",
+    "inputprompt": "Escribe un mensaje...",
+    "today": "Hoy",
+    "last_XXX": "{{day}} Pasado"
+  },
+  "date": {
+    "Monday":"Lunes",
+    "Tuesday":"Martes",
+    "Wednesday":"Miércoles",
+    "Thursday":"Jueves",
+    "Friday":"Viernes",
+    "Saturday":"Sábado",
+    "Sunday":"Domingo"
+  }
+}

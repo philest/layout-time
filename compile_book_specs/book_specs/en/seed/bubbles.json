@@ -1,0 +1,91 @@
+{
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.6,
+        "y": 0.75,
+        "ang": "20deg",
+        "textArray": [
+          "What did the girl find?",
+          "What color polka dots does it have?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.42,
+        "y": 0.71,
+        "ang": "-20deg",
+        "textArray": [
+          "What does the seed want?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.05,
+        "y": 0.34,
+        "ang": "-20deg",
+        "textArray": [
+          "What's the girl doing here?",
+          "Why did she plant the seed?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.66,
+        "y": 0.56,
+        "ang": "10deg",
+        "textArray": [
+          "Where is the seed?",
+          "Why does the seed look happy?",
+          "What do you think happens next?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.2,
+        "y": 0.62,
+        "ang": "20deg",
+        "textArray": [
+          "What happened to the seed?"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "x": 0.6,
+        "y": 0.25,
+        "ang": "20deg",
+        "textArray": [
+          "What are those green things?"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "x": 0.13,
+        "y": 0.52,
+        "ang": "12deg",
+        "textArray": [
+          "Do the birds like the jelly beans?",
+          "What's that bird doing?"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "x": 0.28,
+        "y": 0.28,
+        "ang": "-5deg",
+        "textArray": [
+          "What did the tree do?",
+          "How does the girl feel?",
+          "Why does she feel that way?"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Mi Cohete Mágico",
+  "awsKey": "rocket",
+  "description": "Mom gets to come along on a space adventure",
+  "offset": 0,
+  "numPages": 5,
+  "coverDims": {
+    "x": 200,
+    "y": 177
+  }
+}
