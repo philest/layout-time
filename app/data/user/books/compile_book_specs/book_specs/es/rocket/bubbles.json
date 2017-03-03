@@ -1,0 +1,51 @@
+{
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.57,
+        "y": 0.65,
+        "ang": "15deg",
+        "textArray": [
+          "¿Qué tiene en el bolsillo?",
+          "¿Por qué le gusta?",
+          "¿Qué tiene en las paredes?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.44,
+        "y": 0.24,
+        "ang": "-20deg",
+        "textArray": [
+          "¿Qué hace ella?",
+          "¿Cómo llego allí?",
+          "¿Donde quieres que se valla el cohete mágico?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.4,
+        "y": 0.5,
+        "ang": "-5deg",
+        "textArray": [
+          "¿Qué hace mamá?",
+          "¿Qué hace la niña?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.39,
+        "y": 0.75,
+        "ang": "10deg",
+        "textArray": [
+          "¿Qué hacen los extraterrestres?",
+          "¿Por qué la niña construyó el asiento extra?",
+          "¿Cómo se siente mamá?"
+        ]
+      }
+    ]
+  }
+}

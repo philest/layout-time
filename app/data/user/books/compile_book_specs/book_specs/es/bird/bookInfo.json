@@ -1,0 +1,11 @@
+{
+  "title": "El Pajarito",
+  "awsKey": "bird",
+  "description": "Un cuento del miedo de volar",
+  "offset": 1,
+  "numPages": 9,
+  "coverDims": {
+    "x": 124,
+    "y": 129
+  }
+}

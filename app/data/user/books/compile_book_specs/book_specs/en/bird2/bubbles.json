@@ -1,0 +1,72 @@
+{
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.35,
+        "y": 0.34,
+        "ang": "20deg",
+        "textArray": [
+          "Hi?",
+          "Why does he feel that way?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.53,
+        "y": 0.24,
+        "ang": "-20deg",
+        "textArray": [
+          "Who is that flying around?",
+          "How does he feel being left out?",
+          "How do you know he's sad?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.45,
+        "y": 0.26,
+        "ang": "10deg",
+        "textArray": [
+          "Who's that there?",
+          "What does she want baby bird to do?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.4,
+        "y": 0.42,
+        "ang": "5deg",
+        "textArray": [
+          "Do you think mama bird believes in baby bird?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.42,
+        "y": 0.66,
+        "ang": "10deg",
+        "textArray": [
+          "Where is baby bird standing?",
+          "Do you think he feels brave?",
+          "What do you think happens next?"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "x": 0.67,
+        "y": 0.055,
+        "ang": "15deg",
+        "textArray": [
+          "How is baby bird feeling?",
+          "Why do you think he feels that way?",
+          "How do you think mama bird is feeling?"
+        ]
+      }
+    ]
+  }
+}

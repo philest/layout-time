@@ -1,0 +1,71 @@
+{
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.05,
+        "y": 0.4,
+        "ang": "20deg",
+        "textArray": [
+          "Where is Sam?",
+          "Where does he pretend to be?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.01,
+        "y": 0.2,
+        "ang": "-20deg",
+        "textArray": [
+          "What’s Sam holding?",
+          "Who’s that in the bath with Sam?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.6,
+        "y": 0.3,
+        "ang": "20deg",
+        "textArray": [
+          "How does Sam feel?",
+          "How do you know he feels that way?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.65,
+        "y": 0.6,
+        "ang": "-25deg",
+        "textArray": [
+          "How is Sam feeling now?",
+          "What is Mom doing here?",
+          "What do you think happens next?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.08,
+        "y": 0.3,
+        "ang": "20deg",
+        "textArray": [
+          "What is Mom holding?",
+          "What is Sam doing there?"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "x": 0.65,
+        "y": 0.35,
+        "ang": "-25deg",
+        "textArray": [
+          "How does Sam feel now?",
+          "Why does he feel that way?"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Sam's Spaceship",
+  "awsKey": "sam",
+  "description": "Sam adventures through space",
+  "offset": 0,
+  "numPages": 7,
+  "coverDims": {
+    "x": 300,
+    "y": 303
+  }
+}
