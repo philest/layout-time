@@ -1,0 +1,11 @@
+{
+  "title": "Kitty",
+  "awsKey": "scratch",
+  "description": "A story about our cat",
+  "offset": 0,
+  "numPages": 6,
+  "coverDims": {
+    "x": 188,
+    "y": 179
+  }
+}

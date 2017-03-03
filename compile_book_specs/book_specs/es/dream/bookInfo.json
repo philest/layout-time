@@ -1,0 +1,11 @@
+{
+  "title": "Dream",
+  "awsKey": "dream",
+  "description": "A story about where you'll go after you fall asleep",
+  "offset": 0,
+  "numPages": 8,
+  "coverDims": {
+    "x": 333,
+    "y": 495
+  }
+}

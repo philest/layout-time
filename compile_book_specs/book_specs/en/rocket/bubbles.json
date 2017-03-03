@@ -1,0 +1,48 @@
+{
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.57,
+        "y": 0.65,
+        "ang": "15deg",
+        "textArray": [
+          "What's she have in her pocket?",
+          "Why does she like it?",
+          "What are on her walls?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.44,
+        "y": 0.24,
+        "ang": "-20deg",
+        "textArray": [
+          "How did she get on that cloud?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.4,
+        "y": 0.5,
+        "ang": "-5deg",
+        "textArray": [
+          "What's Mom doing here?",
+          "Where is the little girl?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.39,
+        "y": 0.75,
+        "ang": "10deg",
+        "textArray": [
+          "How do you think Mom feels?",
+          "Why do you think she feels that way?"
+        ]
+      }
+    ]
+  }
+}
