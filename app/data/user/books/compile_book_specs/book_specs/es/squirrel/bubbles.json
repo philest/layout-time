@@ -1,62 +1,65 @@
 {
-  "0": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 0"
-      ]
-    }
-  ],
-  "1": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "-15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 1"
-      ]
-    }
-  ],
-  "2": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 2"
-      ]
-    }
-  ],
-  "3": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "-15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 3"
-      ]
-    }
-  ],
-  "4": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 4"
-      ]
-    }
-  ],
-  "5": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "-15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 5"
-      ]
-    }
-  ]
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.5,
+        "y": 0.5,
+        "ang": "15deg",
+        "textArray": [
+          "¿Qué está haciendo esa ardilla?",
+          "¿Con qué animales está?",
+          "¿Se ven tristes? ¿Por qué?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.7,
+        "y": 0.6,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Con quién está hablando el Señor Ardilla?",
+          "¿Qué están haciendo esos niños?"
+
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.6,
+        "y": 0.5,
+        "ang": "15deg",
+        "textArray": [
+          "¿Esos chicos parecen felices?",
+          "¿Por qué están tristes?",
+          "¿El Sr. Ardilla ve que están tristes?"
+
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.6,
+        "y": 0.35,
+        "ang": "-15deg",
+        "textArray": [
+          "¿El Sr. Ardilla parece sorprendido?",
+          "¿Qué le dijo la chica?",
+          "¿Crees que debería escuchar más?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.4,
+        "y": 0.6,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Qué dice ahora el Sr. Ardilla?",
+          "¿Crees que es más amable?",
+          "¿Cómo crees que se sienten los niños?"
+        ]
+      }
+    ]
+  }
 }

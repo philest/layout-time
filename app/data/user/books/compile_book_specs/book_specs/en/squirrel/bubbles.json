@@ -1,62 +1,63 @@
 {
-  "0": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 0"
-      ]
-    }
-  ],
-  "1": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "-15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 1"
-      ]
-    }
-  ],
-  "2": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 2"
-      ]
-    }
-  ],
-  "3": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "-15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 3"
-      ]
-    }
-  ],
-  "4": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 4"
-      ]
-    }
-  ],
-  "5": [
-    {
-      "x": 0.5,
-      "y": 0.5,
-      "ang": "-15deg",
-      "textArray": [
-        "TEXT FOR BUBBLE 1 ON PAGE 5"
-      ]
-    }
-  ]
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.5,
+        "y": 0.5,
+        "ang": "15deg",
+        "textArray": [
+          "What's that squirrel doing?",
+          "What animals is he with?",
+          "Do they look sad? Why?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.7,
+        "y": 0.6,
+        "ang": "-15deg",
+        "textArray": [
+          "Who is Mr. Squirrel talking to?",
+          "What are those kids doing?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.6,
+        "y": 0.5,
+        "ang": "15deg",
+        "textArray": [
+          "Do those kids look happy?",
+          "Why are they sad?",
+          "Does Mr. Squirrel see that they're sad?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.6,
+        "y": 0.35,
+        "ang": "-15deg",
+        "textArray": [
+          "Does Mr. Squirrel look surprised?",
+          "What did the girl tell him?",
+          "Do you think he should listen more?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.4,
+        "y": 0.6,
+        "ang": "-15deg",
+        "textArray": [
+          "What does Mr. Squirrel say now?",
+          "Do you think that is nicer?",
+          "How do you think the kids feel?"
+        ]
+      }
+    ]
+  }
 }
