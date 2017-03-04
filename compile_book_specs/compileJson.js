@@ -37,9 +37,14 @@ try {
   console.log('outputs folder already exists. All good!')
 }
 
+const curriculum = require("./curriculum")
+
 // outputs for out own records
 fs.writeFileSync(`${__dirname}/outputs/bookSpecs.json`, JSON.stringify(done))
 fs.writeFileSync(`${__dirname}/outputs/fullBookList.json`, JSON.stringify(Object.assign({}, es, en)))
+fs.writeFileSync(`${__dirname}/outputs/curriculum.json`, JSON.stringify(curriculum))
 
 // update live version
 fs.writeFileSync(`${__dirname}/../app/data/user/books/data/fullBookList.json`, JSON.stringify(Object.assign({}, es, en)))
+fs.writeFileSync(`${__dirname}/../app/data/user/books/data/curriculum.json`, JSON.stringify(curriculum))
+
