@@ -13,7 +13,7 @@ import { allowRoutePush, setLocale, setNextLocale, setGlobalHeight } from 'app/r
 
 // components
 import TransitionModal from './homePage/scenes/TransitionModal' // TODO: reorganize this...
-import LoginStack from './login'
+
 import HomePageStack from './homePage'
 
 let { height: iosHeight, width: iosWidth } = Dimensions.get('window');
@@ -27,7 +27,6 @@ const getWindowHeight = () => {
   refreshTknExists: !!state.data.credentials.refresh.tkn,
   locale: state.global.locale,
   nextLocale: state.global.nextLocale,
-  cover: state.scenes.login.showCover,
   account: state.data.user.account.items,
 }))
 export default class RootScene extends Component {

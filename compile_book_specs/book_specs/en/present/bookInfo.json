@@ -1,0 +1,11 @@
+{
+  "title": "The Present",
+  "awsKey": "present",
+  "description": "",
+  "offset": 0,
+  "numPages": 7,
+  "coverDims": {
+    "x": 200,
+    "y": 191
+  }
+}

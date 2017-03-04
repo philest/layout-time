@@ -31,8 +31,10 @@ export default readerState = (state = initialState, action) => {
   }
 }
 
+import { INIT_PAGE, INIT_STORY } from 'app/config'
+
 const initialState = {
   bookShelfDisplayFormat: 'grid',
-  currentStoryKey: "bird",
-  initialPage: 1
+  currentStoryKey: INIT_STORY,
+  initialPage: INIT_PAGE,
 }

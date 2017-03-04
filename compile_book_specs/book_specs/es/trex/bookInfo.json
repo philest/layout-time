@@ -1,0 +1,11 @@
+{
+  "title": "El T-Rex",
+  "awsKey": "trex",
+  "description": "",
+  "offset": 0,
+  "numPages": 8,
+  "coverDims": {
+    "x": 200,
+    "y": 185
+  }
+}

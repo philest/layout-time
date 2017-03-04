@@ -2,7 +2,7 @@ let fs   = require('fs')
 let exec = require('child_process').execSync;
 
 // clear the fukin DS_Stores
-var cmd = 'rm .DS_Store  book_specs/.DS_Store book_specs/en/.DS_Store  book_specs/en/.DS_Store';
+var cmd = 'rm .DS_Store  book_specs/.DS_Store book_specs/en/.DS_Store  book_specs/es/.DS_Store';
 
 try {
   exec(cmd);

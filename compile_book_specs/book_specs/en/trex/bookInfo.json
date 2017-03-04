@@ -1,0 +1,11 @@
+{
+  "title": "My T-Rex Superpower",
+  "awsKey": "trex",
+  "description": "A story about learning to fly",
+  "offset": 0,
+  "numPages": 8,
+  "coverDims": {
+    "x": 200,
+    "y": 185
+  }
+}

@@ -34,5 +34,5 @@ export default storyPagerReducer = (state = initialState, action) => {
 
 const initialState = {
   currentIndex: 0,
-  backBarEnabled:false
+  backBarEnabled: false,
 }

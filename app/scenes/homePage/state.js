@@ -25,7 +25,7 @@ export const closeModal = () => ({
   type: CLOSE_MODAL,
 })
 
-const initialState = { index: 1, pager: null, modalVisible:false }
+const initialState = { index: 0, pager: null, modalVisible:false }
 
 export default reducer = (state = initialState, action = {}) => {
   switch (action.type) {

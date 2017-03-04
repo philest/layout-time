@@ -72,6 +72,7 @@ export const setDBUUID = (dbuuid) => ({
   dbuuid,
 })
 
+import { STORY_NUMBER } from 'app/config'
 
 // construct default state
 const defaultAccountItems = {
@@ -87,7 +88,7 @@ const defaultAccountItems = {
   phoneNumber: null,
   receiptTime: 18, // 6 PM
   schoolName: '',
-  storyNumber: 40,
+  storyNumber: STORY_NUMBER,
   // storyNumber: 40,
   teacherName: '',
   teacherId: null,

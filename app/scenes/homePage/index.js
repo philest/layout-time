@@ -16,6 +16,8 @@ import { ST_ORANGE } from 'app/constants'
 
 import InfoModal from './scenes/InfoModal'
 
+import { MODE } from 'app/config'
+
 @connect()
 export default class HomePageStack extends Component {
 
@@ -48,7 +50,7 @@ export default class HomePageStack extends Component {
         <StackNavigation
           ref={stack => { this.stack = stack }}
           navigatorUID="homePage"
-          initialRoute={Router.getRoute('storyReader')}
+          initialRoute={Router.getRoute(MODE ? 'storyReader' : 'home')}
           defaultRouteConfig={{
             navigationBar: {
               backgroundColor: ST_ORANGE,
