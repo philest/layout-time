@@ -1,3 +1,10 @@
+# Misc
+generate_spines/output_img
+generate_spines/output_svg
+generate_spines/node_modules
+generate_spines/assets
+generate_spines/original
+
 # OSX
 #
 .DS_Store
