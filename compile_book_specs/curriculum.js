@@ -16,6 +16,7 @@ module.exports = {
     "bird2",
     "dream",
     "pillowfort",
+    "penguin"
   ],
   en: [
     "squirrel",
@@ -34,5 +35,6 @@ module.exports = {
     "bird2",
     "dream",
     "pillowfort",
+    "penguin"
   ],
 }

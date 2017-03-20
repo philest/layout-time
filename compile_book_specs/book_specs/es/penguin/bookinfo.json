@@ -1,0 +1,11 @@
+{
+  "title": "Penguin Pam",
+  "awsKey": "penguin",
+  "description": "",
+  "offset": 0,
+  "numPages": 9,
+  "coverDims": {
+    "x": 200,
+    "y": 185
+  }
+}

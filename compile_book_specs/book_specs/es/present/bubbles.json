@@ -1,3 +1,62 @@
 {
-
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.5,
+        "y": 0.55,
+        "ang": "15deg",
+        "textArray": [
+          "¿Qué tiene ese chico?",
+          "¿De qué color es ese regalo?",
+          "¿Qué crees que hay dentro?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.05,
+        "y": 0.1,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Qué están haciendo esos dos canguros?",
+          "¿Qué hay en sus pies?",
+          "¿Cuántos canguros ves?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.75,
+        "y": 0.05,
+        "ang": "15deg",
+        "textArray": [
+          "¿Qué están haciendo las serpientes aquí?",
+          "¿Cuántas serpientes ves?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.2,
+        "y": 0.4,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Qué es eso que sale de la caja?",
+          "¿Qué están usando los murciélagos?",
+          "¿Cuántos murciélagos ves?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.75,
+        "y": 0.12,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Qué hace la mamá aquí?",
+          "¿Cómo crees que el niño se siente recibiendo el regalo?"
+        ]
+      }
+    ]
+  }
 }

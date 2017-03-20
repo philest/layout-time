@@ -1,5 +1,5 @@
-export const INIT_PAGE = 1 // this is 1-indexed (will get 0-indexed later)
-export const INIT_STORY = 'bird2'
+export const INIT_PAGE = 4 // this is 1-indexed (will get 0-indexed later)
+export const INIT_STORY = 'present'
 export const STORY_NUMBER = 20
 
 // there are two modes:

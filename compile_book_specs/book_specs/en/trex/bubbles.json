@@ -1,3 +1,75 @@
 {
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.35,
+        "y": 0.4,
+        "ang": "15deg",
+        "textArray": [
+          "Does she like dinosaurs?",
+          "What dinosaur is she pointing to?",
+          "Would you want her superpower?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.2,
+        "y": 0.3,
+        "ang": "-15deg",
+        "textArray": [
+          "What happened to the girl?",
+          "What do you think she's going to do?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.7,
+        "y": 0.15,
+        "ang": "15deg",
+        "textArray": [
+          "Is she happy?",
+          "How did she get the ball down?",
+          "What's that next to her feet?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.3,
+        "y": 0.6,
+        "ang": "-15deg",
+        "textArray": [
+          "Is that boy scared? Why?",
+          "Is the T-Rex angry? Is she friendly?",
+          "Would you want her as a friend?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.6,
+        "y": 0.3,
+        "ang": "-15deg",
+        "textArray": [
+          "What's she doing here?",
+          "What's that on the board?",
+          "Who do you think she is talking to?"
+        ]
+      }
+    ],
 
+    "7": [
+      {
+        "x": 0.3,
+        "y": 0.3,
+        "ang": "-15deg",
+        "textArray": [
+          "Does the teacher look happy?",
+          "Would you want a T-Rex in your school?"
+        ]
+      }
+    ]
+  }
 }

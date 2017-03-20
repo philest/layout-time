@@ -1,3 +1,62 @@
 {
-
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.5,
+        "y": 0.55,
+        "ang": "15deg",
+        "textArray": [
+          "What does that boy have?",
+          "What colors is that present?",
+          "What do you think is inside?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.05,
+        "y": 0.1,
+        "ang": "-15deg",
+        "textArray": [
+          "What are those two kangaroos doing?",
+          "What are on their feet?",
+          "How many kangaroos do you see?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.75,
+        "y": 0.05,
+        "ang": "15deg",
+        "textArray": [
+          "What are the snakes doing here?",
+          "How many snakes do you see?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.2,
+        "y": 0.4,
+        "ang": "-15deg",
+        "textArray": [
+          "What's that coming out of the box?",
+          "What are the bats wearing?",
+          "How many bats do you see?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.75,
+        "y": 0.12,
+        "ang": "-15deg",
+        "textArray": [
+          "What's the Mommy doing here?",
+          "How do you think the boy feels getting the gift?"
+        ]
+      }
+    ]
+  }
 }

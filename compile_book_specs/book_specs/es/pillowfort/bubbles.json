@@ -1,3 +1,60 @@
 {
-
+  "bubbles": {
+    "2": [
+      {
+        "x": 0.3,
+        "y": 0.3,
+        "ang": "15deg",
+        "textArray": [
+          "¿Los monstruos parecen amiables?",
+          "¿Qué crees que quieren?"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "x": 0.05,
+        "y": 0.26,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Los monstruos parecen tontos?",
+          "¿Los dejarías entrar?"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "x": 0.35,
+        "y": 0.35,
+        "ang": "15deg",
+        "textArray": [
+          "¿Los niños parecen felices?",
+          "¿Qué están haciendo aquí los niños?"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "x": 0.2,
+        "y": 0.4,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Que está pasando aquí?",
+          "¿Qué está cayendo sobre los monstruos?"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "x": 0.75,
+        "y": 0.12,
+        "ang": "-15deg",
+        "textArray": [
+          "¿Qué hacen todos ahora?",
+          "¿Crees que todos se hicieron amigos?",
+          "¿Crees que los monstruos pueden ser agradables?"
+        ]
+      }
+    ]
+  }
 }
